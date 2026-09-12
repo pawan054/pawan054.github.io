@@ -138,4 +138,7 @@ That's it. You have installed latest version of QE in your laptop. Congratulatio
 
 Now type cd hit enter and then type *which pw.x* let me know in comment what you get. Then I can say whether you are correctly configured.
 
-For more help, please the following you tube video.
+For more help, please the  refer the following you tube video.
+<a href="https://youtu.be/tNNlHjNNbj8" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/pawan054/pawan054.github.io/blob/main/install%20xcrysden%20thumbnail.png" alt="Watch Video on YouTube" style="width:100%; max-width:560px;">
+</a>
